@@ -1,0 +1,4 @@
+#Mon May 25 23:18:55 VET 2020
+base.0=C\:\\Users\\kinafune\\Documents\\seccion 14 piano\\Temp\\gradleOut\\launcher\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
